@@ -1,0 +1,6 @@
+C:\Users\Fokstal\Desktop\Kirillka workaet\DES\bin\Debug\DES.dll
+C:\Users\Fokstal\Desktop\Kirillka workaet\DES\bin\Debug\DES.pdb
+C:\Users\Fokstal\Desktop\Kirillka workaet\DES\obj\Debug\DES.csproj.AssemblyReference.cache
+C:\Users\Fokstal\Desktop\Kirillka workaet\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\Fokstal\Desktop\Kirillka workaet\DES\obj\Debug\DES.dll
+C:\Users\Fokstal\Desktop\Kirillka workaet\DES\obj\Debug\DES.pdb
